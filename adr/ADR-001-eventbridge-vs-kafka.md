@@ -2,9 +2,21 @@
 
 # Choosing Amazon EventBridge over Apache Kafka
 
-Status: Accepted
 
-Date: 2026-07-07
+## Metadata
+
+| Item | Value |
+|------|-------|
+| Status | Accepted |
+| Category | Event-Driven Architecture |
+| Decision Type | Technology Selection |
+| Complexity | Medium |
+| Impact | High |
+| Primary Concern | Messaging & Event Routing |
+| Applicable To | Cloud-Native Platforms |
+| Version | 1.0 |
+
+
 
 ---
 
