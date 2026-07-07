@@ -1,6 +1,6 @@
 # ADR-005
 
-# Choosing Amazon Aurora over Amazon DynamoDB for Transactional Business Applications
+# Selecting Aurora for Transactional Workloads and DynamoDB for High-Scale Key-Value Access
 
 ## Metadata
 
