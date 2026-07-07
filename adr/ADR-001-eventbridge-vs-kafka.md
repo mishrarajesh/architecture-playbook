@@ -234,35 +234,7 @@ Negative
 
 # Architecture
 
-Publisher
-
-↓
-
-Amazon EventBridge
-
-↓
-
-Rules
-
-↓
-
-Lambda
-
-↓
-
-SQS
-
-↓
-
-Bedrock
-
-↓
-
-Lambda
-
-↓
-
-WebSocket API
+![architecture diagram](../diagrams/eventbridge-vs-kafka.png)
 
 ---
 
