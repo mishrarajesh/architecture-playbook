@@ -2,9 +2,18 @@
 
 # Choosing GraphQL for Client-Facing APIs while retaining REST for Service-to-Service Communication
 
-**Status** Accepted
+## Metadata
 
-**Date** 2026-07-07
+| Item | Value |
+|------|-------|
+| Status | Accepted |
+| Category | API Architecture |
+| Decision Type | API Design |
+| Complexity | Medium |
+| Impact | High |
+| Primary Concern | Client-Server Communication |
+| Applicable To | Web, Mobile & API Platforms |
+| Version | 1.0 |
 
 ---
 
