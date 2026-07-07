@@ -45,6 +45,16 @@ The engineering team is relatively small, making operational simplicity an impor
 
 ---
 
+# Practical Experience
+
+During an AWS migration initiative, we evaluated multiple approaches for implementing asynchronous communication between services responsible for AI processing, notifications, audit logging, and workflow orchestration.
+
+While Apache Kafka offered greater throughput and fine-grained control over event streaming, our workloads consisted primarily of business events rather than continuous data streams. Since the platform was already using managed AWS services such as Lambda, SQS, API Gateway, and Step Functions, Amazon EventBridge provided a simpler operational model with native integrations and significantly lower maintenance overhead.
+
+The decision reduced infrastructure management effort and enabled the engineering team to focus on delivering business capabilities instead of operating messaging infrastructure.
+
+---
+
 # Decision Drivers
 
 The decision was evaluated using the following criteria.
