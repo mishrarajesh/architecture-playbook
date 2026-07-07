@@ -2,9 +2,18 @@
 
 # Choosing a Modular Monolith over Microservices
 
-**Status** Accepted
+## Metadata
 
-**Date** 2026-07-07
+| Item | Value |
+|------|-------|
+| Status | Accepted |
+| Category | Application Architecture |
+| Decision Type | Architectural Style |
+| Complexity | High |
+| Impact | Very High |
+| Primary Concern | System Decomposition |
+| Applicable To | Enterprise Applications |
+| Version | 1.0 |
 
 ---
 
