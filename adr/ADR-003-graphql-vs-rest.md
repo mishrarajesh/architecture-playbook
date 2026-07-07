@@ -329,6 +329,30 @@ These enhancements can be introduced incrementally as platform complexity grows.
 
 ---
 
+# Decision Metrics
+
+The success of this decision will be evaluated using the following measurable indicators:
+
+| Metric | Target |
+|---------|--------|
+| Average API calls per page | Reduced by 50% or more |
+| Frontend development effort | Reduced implementation time for new screens |
+| Backend API versioning | Fewer versioned endpoints |
+| GraphQL query response time | P95 < 300 ms |
+| Client adoption | 80%+ of new frontend features use GraphQL |
+| Query error rate | < 1% |
+| Number of breaking API changes | Near zero |
+
+The decision should be revisited if:
+
+- GraphQL gateway becomes a performance bottleneck.
+- Query complexity impacts backend services.
+- Resolver maintenance becomes difficult.
+- Multiple teams require independent schema ownership.
+
+---
+
+
 # References
 
 - https://graphql.org/learn/
