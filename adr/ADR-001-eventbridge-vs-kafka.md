@@ -280,8 +280,11 @@ Kafka should be re-evaluated.
 
 # References
 
-AWS EventBridge Documentation
+[AWS EventBridge Documentation
+](https://docs.aws.amazon.com/eventbridge/)
 
-Apache Kafka Documentation
+[Apache Kafka Documentation
+](https://kafka.apache.org/43/getting-started/introduction/)
 
-AWS Well-Architected Framework
+[AWS Well-Architected Framework
+](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
