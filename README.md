@@ -26,3 +26,7 @@ Each ADR contains:
 - Consequences
 - When NOT to use the selected approach
 - Lessons Learned
+
+## Disclaimer
+
+These Architecture Decision Records (ADRs) are intended as a professional knowledge base that documents architectural patterns, design decisions, and trade-offs encountered in cloud-native application development. Some ADRs are inspired by production experience, while others explore realistic architecture scenarios. They are not project-specific records and do not disclose confidential information.
