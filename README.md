@@ -10,7 +10,11 @@ The objective is to demonstrate architectural thinking and decision-making rathe
 
 | ADR | Topic | Status |
 |------|-------|--------|
-| ADR-001 | EventBridge vs Kafka | Accepted |
+| ADR-001 | [EventBridge vs Kafka](./adr/ADR-001-eventbridge-vs-kafka.md) | Accepted |
+| ADR-002 | [Modular Monolith over Microservices](./adr/ADR-002-modular-monolith-over-mircroservices.md) | Accepted |
+| ADR-003 | [Graphql vs Rest](./adr/ADR-003-graphql-vs-rest.md) | Accepted |
+| ADR-004 | [Amazon Lambda over Ecs](./adr/ADR-004-amazon-lambda-over-ecs.md) | Accepted |
+| ADR-005 | [Amazon Aurora over Dynamodb for transactions](./adr/ADR-005-amazon-aurora_over_dynamodb_for_transactions.md) | Accepted |
 
 ## ADR Format
 
