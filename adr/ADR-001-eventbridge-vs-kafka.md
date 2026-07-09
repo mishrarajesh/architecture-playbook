@@ -7,7 +7,6 @@
 
 | Item | Value |
 |------|-------|
-| Status | Accepted |
 | Category | Event-Driven Architecture |
 | Decision Type | Technology Selection |
 | Complexity | Medium |
