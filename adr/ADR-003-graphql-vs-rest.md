@@ -6,7 +6,6 @@
 
 | Item | Value |
 |------|-------|
-| Status | Accepted |
 | Category | API Architecture |
 | Decision Type | API Design |
 | Complexity | Medium |
