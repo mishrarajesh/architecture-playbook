@@ -6,7 +6,6 @@
 
 | Item | Value |
 |------|-------|
-| Status | Accepted |
 | Category | Data Architecture |
 | Decision Type | Database Selection |
 | Complexity | High |
