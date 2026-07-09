@@ -6,7 +6,6 @@
 
 | Item | Value |
 |------|-------|
-| Status | Accepted |
 | Category | Application Architecture |
 | Decision Type | Architectural Style |
 | Complexity | High |
