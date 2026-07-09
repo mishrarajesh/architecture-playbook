@@ -6,7 +6,6 @@
 
 | Item | Value |
 |------|-------|
-| Status | Accepted |
 | Category | Compute Platform |
 | Decision Type | Compute Strategy |
 | Complexity | Medium |
